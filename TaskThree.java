@@ -1,3 +1,4 @@
+//task three
 package Qabass$;
 import java.util.Scanner;
 class TaskThree {

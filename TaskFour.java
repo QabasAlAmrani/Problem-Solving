@@ -1,3 +1,4 @@
+//task four
 package Qabass$;
 import java.util.ArrayList;
 import java.util.List;
@@ -31,3 +32,4 @@ class TaskFour {
  scanner.close();
  
 }}
+//qqq

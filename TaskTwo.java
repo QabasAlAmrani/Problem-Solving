@@ -1,11 +1,12 @@
+//task two
 package Qabass$;
 import java.util.Scanner;
 class TaskTwo {
  public static void main(String[] args) {
  Scanner scanner = new Scanner(System.in);
- System.out.print("Enter a positive decimal number: ");
+ System.out.print("Enter a positive decimal number : ");
  int decimalNum = scanner.nextInt();
- System.out.println("Binary equivalent: " + decimalToBinary(decimalNum));
+ System.out.println("Binary equivalent : " + decimalToBinary(decimalNum));
  scanner.close();
  }
  public static String decimalToBinary(int decimalNum) {
