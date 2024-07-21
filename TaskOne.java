@@ -1,3 +1,4 @@
+//task one
 package Qabass$;
 import java.util.Scanner;
 public class TaskOne{
